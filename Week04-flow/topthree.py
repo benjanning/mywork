@@ -1,5 +1,5 @@
 # A program that generates 10 random numbers.
-# rints them out, the
+# Prints them out, then
 # Prints out the top 3
 
 # Author: Ben Janning
