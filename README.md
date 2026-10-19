@@ -16,4 +16,4 @@ A collection of Python exercises from my early programming studies, organised by
 | Errors and exceptions | [Week 9](./week09%20-%20Errors) |
 | Classes and objects | [Week 10](./week10%20-%20Objects) |
 
-This repository is an **archive of learning exercises**, rather than a single finished application. For complete projects, see [my GitHub portfolio index](https://github.com/benjanning/programming2022).
+This repository is an **archive of learning exercises**, rather than a single finished application. For complete projects, see [my GitHub portfolio index](https://benjanning.github.io/projects/).
